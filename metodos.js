@@ -3,7 +3,6 @@
 
 
 
-
 // some()
 // Los tests del método some() son responsables de encontrar si al menos un elemento de la matriz pasa la prueba realizada por la función de devolución de llamada. La función de devolución de llamada (callback) acepta solo tres respuestas: el elemento, el índice y la matriz completa.
 
